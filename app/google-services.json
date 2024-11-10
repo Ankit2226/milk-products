@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "680631073470",
+    "firebase_url": "https://milk-products-801eb-default-rtdb.firebaseio.com",
+    "project_id": "milk-products-801eb",
+    "storage_bucket": "milk-products-801eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680631073470:android:35a1da50adeb5a84debcef",
+        "android_client_info": {
+          "package_name": "com.skyboundapps.milkproducts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkhf24m6-T2blLuVUGPu5DgZyC7awPFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
